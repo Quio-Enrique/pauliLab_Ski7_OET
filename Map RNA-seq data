@@ -1,0 +1,7 @@
+# Mapping RNA-seq data
+
+The following steps require the raw RNA-seq fastq files as input to generate raw counts and TPM files as output.
+
+### Requirements
+
+
