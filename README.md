@@ -1,2 +1,9 @@
-# Ski7_zfOET
-Analysis of RNA-seq data from wild-type and ski7-/- embryos during the oocyte-to-embryo transitions in zebrafish
+# Zebrafish Ski7 tunes RNA levels during the oocyte-to-embryo transition
+
+### Luis Enrique Cabrera Quio, Alexander schleiffer, Karl Mechtler, Andrea Pauli
+
+
+## Software dependencies
+
+The analysis were implemented in command line and R.
+
