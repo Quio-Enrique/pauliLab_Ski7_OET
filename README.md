@@ -5,5 +5,5 @@
 
 ## Software dependencies
 
-The analysis were implemented in command line and R.
+The analyses were implemented in command line and R.
 
