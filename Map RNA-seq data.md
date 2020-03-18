@@ -1,8 +1,16 @@
 # Mapping RNA-seq data
-bb
+
 The following steps require the raw RNA-seq fastq files as input to generate _RAWcounts_ and _TPM_
 files as output.
 The following steps were performed on each of the fastq files.
+
+## Software requirements
+
+|Software|
+|---|
+|Hisat2|
+|Kallisto|
+|HTseq|
 
 ## Trim adaptors from raw reads
 
