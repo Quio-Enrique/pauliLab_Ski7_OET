@@ -6,4 +6,5 @@
 ## Software dependencies
 
 The analyses were implemented in command line and R.
+The specific requirements and version are indicated on every step of the process.
 
