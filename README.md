@@ -2,6 +2,10 @@
 
 #### Luis Enrique Cabrera Quio, Alexander schleiffer, Karl Mechtler, Andrea Pauli
 
+For more information visit:
+
+http://paulilab.org/
+
 
 ## Software dependencies
 
